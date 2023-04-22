@@ -1,9 +1,9 @@
 [project]
-name = "sampleproject"  # Required
+name = "Udacity-DL"  # Required
 
 version = "0.0.1"  # Required
 
-description = "A sample Python project"  # Optional
+description = "Udacity Deep Learning nanodegree program"  # Optional
 
 readme = "README.md" # Optional
 
