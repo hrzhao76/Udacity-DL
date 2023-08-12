@@ -1,0 +1,22 @@
+name: udacity
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter
+  - notebook
+  - jupyterlab
+  - seaborn
+  - ca-certificates
+  - openssl
+  - joblib
+  - certifi
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - pre-commit

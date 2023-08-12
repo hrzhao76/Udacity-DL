@@ -1,0 +1,9 @@
+[submodule "deep-learning-v2-pytorch"]
+	path = official/deep-learning-v2-pytorch
+	url = https://github.com/udacity/deep-learning-v2-pytorch.git
+[submodule "Ch1/project-bikesharing/cd0281-Introduction-to-Neural-Networks-with-PyTorch"]
+	path = official/cd0281-Introduction-to-Neural-Networks-with-PyTorch
+	url = https://github.com/udacity/cd0281-Introduction-to-Neural-Networks-with-PyTorch.git
+[submodule "resources/deep-learning-v2-pytorch"]
+	path = resources/deep-learning-v2-pytorch
+	url = https://github.com/udacity/deep-learning-v2-pytorch.git
