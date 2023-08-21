@@ -3,6 +3,7 @@ jwt
 
 .DS_Store
 *.pt
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
