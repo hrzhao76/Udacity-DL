@@ -4,3 +4,6 @@
 [submodule "resources/deep-learning-v2-pytorch"]
 	path = resources/deep-learning-v2-pytorch
 	url = https://github.com/udacity/deep-learning-v2-pytorch.git
+[submodule "Ch5/sagemaker-deployment"]
+	path = resources/sagemaker-deployment
+	url = https://github.com/udacity/sagemaker-deployment.git
